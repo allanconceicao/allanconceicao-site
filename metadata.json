@@ -1,0 +1,6 @@
+{
+  "name": "Allan Conceição",
+  "description": "Uma experiência digital reflexiva e literária para o escritor brasileiro Allan Conceição, autor da obra 'Só Percebi Depois'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
