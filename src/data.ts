@@ -1,10 +1,12 @@
 import { Pattern, Reflection, Benefit, SocialLink } from './types';
+import portraitImg from './assets/images/allan_portrait_1784294160923.png';
+import bookCoverImg from './assets/images/book_cover_1783150653654.jpeg';
 
 export const HERO_DATA = {
   authorName: "Allan Conceição",
   tagline: "Escritor e Ensaísta",
   impactPhrase: "Como percebemos o tempo, a memória e as nossas próprias escolhas? Em meus ensaios, convido você a olhar para o que costuma passar sem que a gente note e a descobrir o que de fato preenche os nossos dias.",
-  portraitPath: "/src/assets/images/allan_portrait_1784294160923.png"
+  portraitPath: portraitImg
 };
 
 export const QUESTION_DATA = {
@@ -48,7 +50,7 @@ export const BOOK_DATA = {
   subtitle: "Ensaios sobre o ruído do pensamento, a pressa do tempo e o resgate da presença",
   description: "Este não é um manual de desenvolvimento pessoal ou um livro de respostas fáceis. Trata-se de uma coletânea de ensaios breves sobre as nossas pequenas distrações diárias, as tentativas de controlar o amanhã e a dificuldade de habitarmos o presente.",
   extendedDescription: "A cada página, o autor propõe uma conversa simples e honesta, convidando o leitor a olhar de perto para os próprios hábitos e a redescobrir a clareza que muitas vezes fica encoberta pelo cansaço do dia a dia.",
-  coverPath: "/src/assets/images/book_cover_1783150653654.jpeg",
+  coverPath: bookCoverImg,
   benefits: [
     {
       title: "Por que descansar parece um erro?",
