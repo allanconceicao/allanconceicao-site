@@ -60,7 +60,7 @@ export default function About() {
                 </p>
               </div>
               <a
-                href="mailto:Allan.Diego.pagodeiro@gmail.com"
+                href="mailto:contato@allanconceicao.com.br"
                 className="flex items-center space-x-2 text-bronze-500 hover:text-charcoal-900 transition-colors font-mono text-xs tracking-wider uppercase group"
               >
                 <Mail size={14} className="group-hover:translate-x-0.5 transition-transform" />

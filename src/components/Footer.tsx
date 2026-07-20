@@ -54,10 +54,10 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:Allan.Diego.pagodeiro@gmail.com"
+                  href="mailto:contato@allanconceicao.com.br"
                   className="hover:text-bronze-500 transition-colors select-all font-mono"
                 >
-                  Allan.Diego.pagodeiro@gmail.com
+                  contato@allanconceicao.com.br
                 </a>
               </li>
               <li className="text-[10px] text-cream-200/30">
